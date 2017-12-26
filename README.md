@@ -2,12 +2,13 @@
 안녕하세요 Londev입니다!
 오늘은 선린인터넷고등학교 서버동아리인 팀로그에서 시행착오 끝에 성황리에 개최한 서버퀴즈대회(LogCon)의 문제풀이(Write Up)을 공개하겠습니다.
 
-![alt text](http://cfile5.uf.tistory.com/image/99BCB34A5A419AA2271E74)
+<img src="http://cfile5.uf.tistory.com/image/99BCB34A5A419AA2271E74" style="margin-left: auto; margin-right: auto; display: block;"/>
 <p style="text-align: center;"><a href="http://con.teamlog.kr/" target="_blank" class="tx-link"><span style="font-size: 14pt;">서버퀴즈대회(LogCon) 사이트</span></a></p>
 
 먼저 자기자랑부터 할게요!
 저는 고등부에서 elricpark라는 닉네임으로 3800점을 얻어 1등을 얻었습니다! (근데 중등부만 상을 주네요 ㅠㅠ 그래도 고등부 1등이라는 사명감으로)
 
+<
 ![alt text](http://cfile30.uf.tistory.com/image/990D604A5A419AA41BCAAE)
 <p style="text-align: center;">[5800점이라고 기록 되있지만 문제풀이 사이트 측의 오류입니다 ㅠㅠ]<br /></p>
 
