@@ -2,21 +2,21 @@
 안녕하세요 Londev입니다!
 오늘은 선린인터넷고등학교 서버동아리인 팀로그에서 시행착오 끝에 성황리에 개최한 서버퀴즈대회(LogCon)의 문제풀이(Write Up)을 공개하겠습니다.
 
-
-[서버퀴즈대회(LogCon) 사이트]
+![alt text](http://cfile5.uf.tistory.com/image/99BCB34A5A419AA2271E74)
+<p style="text-align: center;"><a href="http://con.teamlog.kr/" target="_blank" class="tx-link"><span style="font-size: 14pt;">서버퀴즈대회(LogCon) 사이트</span></a></p>
 
 먼저 자기자랑부터 할게요!
 저는 고등부에서 elricpark라는 닉네임으로 3800점을 얻어 1등을 얻었습니다! (근데 중등부만 상을 주네요 ㅠㅠ 그래도 고등부 1등이라는 사명감으로)
 
+![alt text](http://cfile30.uf.tistory.com/image/990D604A5A419AA41BCAAE)
+<p style="text-align: center;">[5800점이라고 기록 되있지만 문제풀이 사이트 측의 오류입니다 ㅠㅠ]<br /></p>
 
-[5800점이라고 기록 되있지만 문제풀이 사이트 측의 오류입니다 ㅠㅠ]
 
 생각보다 중학생 참가자 분들이 실력이 너무 좋아서 깜짝 놀랬습니다 ㅇㅅㅇ (심지어 JS문제를 푼 중학생 참가자도 있었네요)
 저는 JS문제를 제외한 모든 문제를 풀었고 실력을 키워서 JS문제까지 풀 수 있도록 노력하겠습니다
 
 그럼 문제풀이를 보실까요~~~
 하단의 링크를 들어가시면 문제풀이를 보실 수 있습니다!
-(깃허브에도 공개될 예정입니다: https://github.com/ep20010706/2017_LogCon_WriteUP)
 (오늘부터 시작하여 풀이작성이 완료되는 대로 하이퍼링크를 걸어놓겠습니다!)
 
 [문제 1 ~ 5번 Write UP]
