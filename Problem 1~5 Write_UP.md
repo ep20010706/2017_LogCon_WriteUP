@@ -48,6 +48,6 @@ ssl 웹 서버에 접속 중 Full Handshake 과정의 패킷을 캡처 하였다
 
 풀이
 패킷캡처된 사진을 구글링해서 검색해보니 Cipher suite라는 곳에 여러 암호화 정보들이 존재하고 있었고 해당 답을 제출했더니 정답이였다.
-(http://cfile239.uf.daum.net/image/2339D24750ED26B62F96FE)
+<p><img src="http://cfile239.uf.daum.net/image/2339D24750ED26B62F96FE"></p>
 플래그는 cipher_suite다.
 
