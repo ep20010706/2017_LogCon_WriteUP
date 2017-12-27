@@ -20,9 +20,7 @@
 하단의 링크를 들어가시면 문제풀이를 보실 수 있습니다!
 (오늘부터 시작하여 풀이작성이 완료되는 대로 하이퍼링크를 걸어놓겠습니다!)
 
-[문제 1 ~ 5번 Write UP]
-[문제 6 ~ 10번 Write UP]
-[문제 11 ~ 6번 Write UP]
+WriteUP: https://github.com/ep20010706/2017_LogCon_WriteUP/blob/master/2017_LogCon_Writeup(All).md
 
 1. [200] 내부고발자
 2. [500] 야한사진
