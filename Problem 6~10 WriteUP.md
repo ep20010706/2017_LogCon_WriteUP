@@ -29,6 +29,7 @@ Flag는 unified_access_data_plane이다.
 문제:
 다음은 라우터 R1, R2의 running-config의 일부이다.
 
+```
 R1
 hostname R1
 !
@@ -40,8 +41,9 @@ interface Serial0/0/1
 no ip address
 clock rate 2000000
 shutdown
+```
 
-
+```
 R2
 Hostname R2
 interface Serial0/0/0
@@ -52,7 +54,7 @@ interface Serial0/0/1
 no ip address
 clock rate 2000000
 shutdown
-
+```
 
 R1에서 10.10.10.2로 ping테스트를 시행한 결과는 다음과 같다.
 Sending 5, 100-byte ICMP Echos to 10.10.10.2, timeout is 2 seconds:
@@ -62,7 +64,7 @@ Success rate is 100 percent (5/5), round-trip min/avg/max = 1/7/21 ms
 R1의 Serial0/0/0과 R2의 Serial0/0/0이 서로 직접 연결되어 있지 않은 이유를 알 수 있는 부분의 행 전체를 R1의 running-config 또는 ping테스트 결과에서 찾으시오.
 
 풀이:
-이건 답이 없는 것 같은데 답이 있다... 그래도 답이 제시한 세팅이나 핑 테스트 결과에 있다니 위에서부터 한줄 한줄 복사해서 답안 제출을 시도한 결과 clock rate 64000가 정답이라는 결과를 도출해냈다.
+이건 답이 없는 것 같은데 답이 있다... 그래도 답이 제시한 세팅이나 핑 테스트 결과에 있다니 위에서부터 한줄 한줄 복사해서 답안 제출을 시도한 결과 ```clock rate 64000```가 정답이라는 결과를 도출해냈다.
 Flag는 clock_rate_64000이다.
 
 9. [200]위장변장간장: spf
@@ -82,6 +84,6 @@ TightVNC를 이용하여 원격접속을 하려는 성윤이는 급한 나머지
 TightVNC 설치 명령어를 알려줘서 성윤이를 도와라
 
 풀이:
-처음엔 yum_install_-y_tigervnc-server로 시도했으나 정답이 아니라 해서 yum_install_tigervnc-server로 했더니 또 오답이라 해서 운영진측에 물어봤더니 해당 문제에 오류가 있음을 확인하여 출제자와 조율하여 답을 수정했다고 하였다.
-그리고 apt-get_install_tightvncserver로 시도했더니 맞췄다.
-Flag는 apt-get_install_tightvncserver이다.
+처음엔 ```yum_install_-y_tigervnc-server```로 시도했으나 정답이 아니라 해서 ```yum_install_tigervnc-server```로 했더니 또 오답이라 해서 운영진측에 물어봤더니 해당 문제에 오류가 있음을 확인하여 출제자와 조율하여 답을 수정했다고 하였다.
+그리고 ```apt-get_install_tightvncserver```로 시도했더니 맞췄다.
+Flag는 ```apt-get_install_tightvncserver```이다.
