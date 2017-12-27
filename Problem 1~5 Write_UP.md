@@ -20,6 +20,7 @@ https://www.lesstif.com/pages/viewpage.action?pageId=21430345 를 참고하면 '
 풀이:
 문제가 주어지며, 첨부파일을 주는데 이 첨부파일을 와이어샤크로 열 수 있었다. 패킷을 분석한 결과 FTP패킷이 오간 것을 파악했고, TCP를 이용하여 추출하려 했으나 추출에 실패했었다. (만약에 성공한 경우 깃허브 이슈나 블로그 댓글을 달기 바란다.)
 구글링을 한 결과 Network Miner를 이용하면 추출할 수 있다는 것을 알았고 확장자를 pcap로 변경해 저장한 다음, Network Miner를 이용하여 이미지를 추출할 수 있다는 정보를 얻었고 다행히도 그 프로그램을 이용하여 이미지를 추출할 수 있었고
+<p><img src = "https://github.com/ep20010706/2017_LogCon_WriteUP/blob/master/other/ya.jpg"></p>
 추출한 사진에서 큰 글씨로 "야"라고 나와 있었으며 아래쪽에 Flag가 TEAMLOGZZang_lucky이라 나와있다.
 
 # #3. [300]열쇠번호 440
