@@ -57,9 +57,11 @@ shutdown
 ```
 
 R1에서 10.10.10.2로 ping테스트를 시행한 결과는 다음과 같다.
+```
 Sending 5, 100-byte ICMP Echos to 10.10.10.2, timeout is 2 seconds:
 !!!!!
 Success rate is 100 percent (5/5), round-trip min/avg/max = 1/7/21 ms
+```
 
 R1의 Serial0/0/0과 R2의 Serial0/0/0이 서로 직접 연결되어 있지 않은 이유를 알 수 있는 부분의 행 전체를 R1의 running-config 또는 ping테스트 결과에서 찾으시오.
 
@@ -67,7 +69,8 @@ R1의 Serial0/0/0과 R2의 Serial0/0/0이 서로 직접 연결되어 있지 않�
 이건 답이 없는 것 같은데 답이 있다... 그래도 답이 제시한 세팅이나 핑 테스트 결과에 있다니 위에서부터 한줄 한줄 복사해서 답안 제출을 시도한 결과 ```clock rate 64000```가 정답이라는 결과를 도출해냈다.
 Flag는 clock_rate_64000이다.
 
-9. [200]위장변장간장: spf
+# #9. [200]위장변장간장
+
 문제:
 메일 발송자 정보를 미리 DNS에 등록해놓고, 받은 메일에 개하 DNS질의를 하는 것으로 발송자를 위조하여 메일을 보내는 공격을 예방하는 인증기술 이름은?
 
@@ -75,7 +78,8 @@ Flag는 clock_rate_64000이다.
 https://www.kisarbl.or.kr/whiteip/whiteip_tutorial2.jsp 를 참고하면 메일서버등록제(SPF: Sender Policy Framework)는 메일서버 정보를 사전에 DNS에 공개 등록함으로써 수신자로 하여금 이메일에 표시된 발송자 정보가 실제 메일서버의 정보와 일치하는지를 확인할 수 있도록 하는 인증기술이라 나와있다.
 Flag는 spf다
 
-10. [100]잠입작전: apt-get_install_tightvncserver
+# #10. [100]잠입작전
+
 문제:
 친구가 학원에 가있는 틈을 타 친구네 집에 원격접속 설정을 해둬서 친구를 골려 주려는 계획을 가지고 친구네 집에 잠입한 성윤이는 친구네 집 컴퓨터의 OS가 Ubuntu인 것을 보고 당황하고 말았다.
 빠르게 원격접속 설정을 하지 않으면 친구가 돌아오고 만다!
