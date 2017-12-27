@@ -79,7 +79,7 @@ Flag는 unified_access_data_plane이다.
 [Cisco 문서에서는 UADP (Unified Access Dataplane)를 소프트웨어 유연성을 갖춘 하드웨어 성능을 제공하며 많은 혁신적인 기능을 제공하고, ASIC라 부를 수도 있으며, 유연한 포워딩 엔진과 유선 및 무선 트래픽의 완벽한 통합 기능이라 정의되어있다.]
 [Cisco 문서: https://goo.gl/R3XUp4]
 
-# #8. [300]달리는-구성: clock_rate_64000
+# #8. [300]달리는-구성
 문제:
 다음은 라우터 R1, R2의 running-config의 일부이다.
 
