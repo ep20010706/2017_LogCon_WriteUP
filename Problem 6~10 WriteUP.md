@@ -1,33 +1,33 @@
-# #6. [200]¼ÒÇÁ¶ó³ë µµ¸ÞÀÎ
-¹®Á¦:
-www.teamlog.krÀÇ ÃÖ»óÀ§ µµ¸ÞÀÎÀº?
+# #6. [200]ì†Œí”„ë¼ë…¸ ë„ë©”ì¸
+ë¬¸ì œ:
+www.teamlog.krì˜ ìµœìƒìœ„ ë„ë©”ì¸ì€?
 
-Ç®ÀÌ:
-ÃÖ»óÀ§ µµ¸ÞÀÎ(Top-level domain, TLD)Àº ÀÎÅÍ³Ý¿¡¼­ µµ¸ÞÀÎ ³×ÀÓÀÇ °¡Àå ¸¶Áö¸· ºÎºÐÀ» ¸»ÇÑ´Ù.
-¿¹¸¦ µé¾î londev.tistory.com ÀÇ ÃÖ»óÀ§ µµ¸ÞÀÎÀº .comÀÌ´Ù.
-±×·¯¹Ç·Î www.teamlog.kr ÀÇ ÃÖ»óÀ§ µµ¸ÞÀÎÀº .krÀÌ´Ù.
-Flag´Â .kr
+í’€ì´:
+ìµœìƒìœ„ ë„ë©”ì¸(Top-level domain, TLD)ì€ ì¸í„°ë„·ì—ì„œ ë„ë©”ì¸ ë„¤ìž„ì˜ ê°€ìž¥ ë§ˆì§€ë§‰ ë¶€ë¶„ì„ ë§í•œë‹¤.
+ì˜ˆë¥¼ ë“¤ì–´ londev.tistory.com ì˜ ìµœìƒìœ„ ë„ë©”ì¸ì€ .comì´ë‹¤.
+ê·¸ëŸ¬ë¯€ë¡œ www.teamlog.kr ì˜ ìµœìƒìœ„ ë„ë©”ì¸ì€ .krì´ë‹¤.
+FlagëŠ” .kr
 
-# #7. [400]¿ª»çÀû °íÀü¼ÓÀ¸·Î
-¹®Á¦:
-»õ·Î¿î ±â´É°ú ÇÁ·ÎÅäÄÝÀÌ °³¹ßÀÌ µÇ¾úÀ» ¶§ ±× ÇÁ·ÎÅäÄÝÀÌ ±âÁ¸ÀÇ ÇÏµå¿þ¾î¸¦ °í·ÁÇÏÁö ¾Ê¾Ò´Ù¸é ±×°ÍÀ» ÀÌ¿ëÇÏ±â À§ÇØ¼± »õ·Î¿î ÇÁ·ÎÅäÄÝÀ» Áö¿øÇÏ´Â »õ·Î¿î ÇÏµå¿þ¾î°¡ ÇÊ¿äÇÏ´Ù.
-ÀÌ·¯ÇÑ ¼ö°í¸¦ ´ú±â À§ÇØ ¹Ì¸® ³»ÀåµÈ Áö½Ä ¾øÀÌ »õ·Î¿î Áö½ÄÀ» ÇÁ·Î±×·¡¹Ö ÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖµµ·Ï Cisco¿¡¼­ °³¹ßÇÑ Ä¨ÀÇ ÀÌ¸§Àº?
+# #7. [400]ì—­ì‚¬ì  ê³ ì „ì†ìœ¼ë¡œ
+ë¬¸ì œ:
+ìƒˆë¡œìš´ ê¸°ëŠ¥ê³¼ í”„ë¡œí† ì½œì´ ê°œë°œì´ ë˜ì—ˆì„ ë•Œ ê·¸ í”„ë¡œí† ì½œì´ ê¸°ì¡´ì˜ í•˜ë“œì›¨ì–´ë¥¼ ê³ ë ¤í•˜ì§€ ì•Šì•˜ë‹¤ë©´ ê·¸ê²ƒì„ ì´ìš©í•˜ê¸° ìœ„í•´ì„  ìƒˆë¡œìš´ í”„ë¡œí† ì½œì„ ì§€ì›í•˜ëŠ” ìƒˆë¡œìš´ í•˜ë“œì›¨ì–´ê°€ í•„ìš”í•˜ë‹¤.
+ì´ëŸ¬í•œ ìˆ˜ê³ ë¥¼ ëœê¸° ìœ„í•´ ë¯¸ë¦¬ ë‚´ìž¥ëœ ì§€ì‹ ì—†ì´ ìƒˆë¡œìš´ ì§€ì‹ì„ í”„ë¡œê·¸ëž˜ë° í•˜ì—¬ ì‚¬ìš©í•  ìˆ˜ ìžˆë„ë¡ Ciscoì—ì„œ ê°œë°œí•œ ì¹©ì˜ ì´ë¦„ì€?
 
-Ç®ÀÌ:
-ÀÌ ¹®Á¦´Â ÀÏ¹ÝÀûÀ¸·Î ±¸±Û¸µÀ» ÇØµµ Àß ³ª¿ÀÁö ¾Ê¾Ò´Ù. ¿î¿µÁø Ãø¿¡¼­µµ ±¸±Û¸µÀ» ÅëÇØ¼­ ÇØ°áÇÒ ¼ö ÀÖ´Â ¹®Á¦ Áß °¡Àå ¾î·Á¿î ¹®Á¦¿´°í ³ª¸¦ Á¦¿ÜÇÏ°ï Ç¬ »ç¶÷ÀÌ °ÅÀÇ ¾ø¾ú´ø °É·Î ±â¾ïÇÑ´Ù.
-(½Ç¸Á½º·´°Ôµµ ÀÌ ¹®Á¦¿¡ ´ëÇÑ ´ä¾ÈÀÌ À¯ÃâµÇ¾î ÀÏºÎ Âü°¡ÀÚ°¡ ºÒÀÌÀÍÀ» ¹Þ¾Ò¾ú´ø °ÍÀ¸·Î ±â¾ïÇÑ´Ù)
-(Âü°í·Î 4100Á¡À» ¸Â¾Æ ÁßÇÐ»ý 1µîÀ» ÇÑ Âü°¡ÀÚµµ ÀÌ ¹®Á¦´Â ¸ø ¸ÂÃè´ø °Í °°´Ù.)
-³ª´Â ¿µ¾î·Îµµ Ã£¾Æº¸°í ÇüÅÂ¼ÒµéÀ» ´Ù º¯ÇüÇÏ¿© ÀÏÀÏÈ÷ ±¸±Û¸µÇÏ´Â µî ¿©·¯°¡Áö ½Ãµµ¸¦ ÇØº¸¾ÒÀ¸³ª ´äÀº ³ª¿ÀÁö ¾Ê¾Ò´Ù.
-¾öÃ»³­ ³­ÀÌµµ·Î Á¤´äÀÚ°¡ ³ª¿ÀÁö ¾ÊÀÚ, ¿î¿µÁø Ãø¿¡¼­´Â °øÁö¸¦ ÅëÇØ Á¤´äÀÌ ¾ð´õ¹Ù¸¦ Æ÷ÇÔÇÏ¿© 25ÀÚ¶ó´Â ÈùÆ®¸¦ ÁÖ¾ú°í ³ª´Â ´Ù½Ã ÇÑ¹ø µµÀüÇÏ°Ô ¸¸µé¾ú´Ù.
-ÀÌ¹ÌÁö °Ë»ö Áß UADP¶ó´Â Cisco Ä¨ÀÌ ÀÖ´Ù´Â °ÍÀ» È®ÀÎÇß´Âµ¥ ¾àÀÚ¸¦ È®ÀÎÇØº¸´Ï Unified Access Data Plane ÀÌ¿´°í, ±ÛÀÚ¼ö°¡ Á¤È®È÷ 25ÀÚ¿´´Ù.
-´ä¾ÈÀ» Á¦ÃâÇØºÃ´Âµ¥, °á°ú´Â ³î¶ó¿ü´Ù! ³ª´Â Å³·¯¹®Á¦¸¦ ¸ÂÃá °ÍÀÌ´Ù!
-Flag´Â unified_access_data_planeÀÌ´Ù.
-[Cisco ¹®¼­¿¡¼­´Â UADP (Unified Access Dataplane)¸¦ ¼ÒÇÁÆ®¿þ¾î À¯¿¬¼ºÀ» °®Ãá ÇÏµå¿þ¾î ¼º´ÉÀ» Á¦°øÇÏ¸ç ¸¹Àº Çõ½ÅÀûÀÎ ±â´ÉÀ» Á¦°øÇÏ°í, ASIC¶ó ºÎ¸¦ ¼öµµ ÀÖÀ¸¸ç, À¯¿¬ÇÑ Æ÷¿öµù ¿£Áø°ú À¯¼± ¹× ¹«¼± Æ®·¡ÇÈÀÇ ¿Ïº®ÇÑ ÅëÇÕ ±â´ÉÀÌ¶ó Á¤ÀÇµÇ¾îÀÖ´Ù.]
-<a herf = "https://goo.gl/R3XUp4"><p>[Cisco ¹®¼­]</p><a>
+í’€ì´:
+ì´ ë¬¸ì œëŠ” ì¼ë°˜ì ìœ¼ë¡œ êµ¬ê¸€ë§ì„ í•´ë„ ìž˜ ë‚˜ì˜¤ì§€ ì•Šì•˜ë‹¤. ìš´ì˜ì§„ ì¸¡ì—ì„œë„ êµ¬ê¸€ë§ì„ í†µí•´ì„œ í•´ê²°í•  ìˆ˜ ìžˆëŠ” ë¬¸ì œ ì¤‘ ê°€ìž¥ ì–´ë ¤ìš´ ë¬¸ì œì˜€ê³  ë‚˜ë¥¼ ì œì™¸í•˜ê³¤ í‘¼ ì‚¬ëžŒì´ ê±°ì˜ ì—†ì—ˆë˜ ê±¸ë¡œ ê¸°ì–µí•œë‹¤.
+(ì‹¤ë§ìŠ¤ëŸ½ê²Œë„ ì´ ë¬¸ì œì— ëŒ€í•œ ë‹µì•ˆì´ ìœ ì¶œë˜ì–´ ì¼ë¶€ ì°¸ê°€ìžê°€ ë¶ˆì´ìµì„ ë°›ì•˜ì—ˆë˜ ê²ƒìœ¼ë¡œ ê¸°ì–µí•œë‹¤)
+(ì°¸ê³ ë¡œ 4100ì ì„ ë§žì•„ ì¤‘í•™ìƒ 1ë“±ì„ í•œ ì°¸ê°€ìžë„ ì´ ë¬¸ì œëŠ” ëª» ë§žì·„ë˜ ê²ƒ ê°™ë‹¤.)
+ë‚˜ëŠ” ì˜ì–´ë¡œë„ ì°¾ì•„ë³´ê³  í˜•íƒœì†Œë“¤ì„ ë‹¤ ë³€í˜•í•˜ì—¬ ì¼ì¼ížˆ êµ¬ê¸€ë§í•˜ëŠ” ë“± ì—¬ëŸ¬ê°€ì§€ ì‹œë„ë¥¼ í•´ë³´ì•˜ìœ¼ë‚˜ ë‹µì€ ë‚˜ì˜¤ì§€ ì•Šì•˜ë‹¤.
+ì—„ì²­ë‚œ ë‚œì´ë„ë¡œ ì •ë‹µìžê°€ ë‚˜ì˜¤ì§€ ì•Šìž, ìš´ì˜ì§„ ì¸¡ì—ì„œëŠ” ê³µì§€ë¥¼ í†µí•´ ì •ë‹µì´ ì–¸ë”ë°”ë¥¼ í¬í•¨í•˜ì—¬ 25ìžë¼ëŠ” ížŒíŠ¸ë¥¼ ì£¼ì—ˆê³  ë‚˜ëŠ” ë‹¤ì‹œ í•œë²ˆ ë„ì „í•˜ê²Œ ë§Œë“¤ì—ˆë‹¤.
+ì´ë¯¸ì§€ ê²€ìƒ‰ ì¤‘ UADPë¼ëŠ” Cisco ì¹©ì´ ìžˆë‹¤ëŠ” ê²ƒì„ í™•ì¸í–ˆëŠ”ë° ì•½ìžë¥¼ í™•ì¸í•´ë³´ë‹ˆ Unified Access Data Plane ì´ì˜€ê³ , ê¸€ìžìˆ˜ê°€ ì •í™•ížˆ 25ìžì˜€ë‹¤.
+ë‹µì•ˆì„ ì œì¶œí•´ë´¤ëŠ”ë°, ê²°ê³¼ëŠ” ë†€ë¼ì› ë‹¤! ë‚˜ëŠ” í‚¬ëŸ¬ë¬¸ì œë¥¼ ë§žì¶˜ ê²ƒì´ë‹¤!
+FlagëŠ” unified_access_data_planeì´ë‹¤.
+[Cisco ë¬¸ì„œì—ì„œëŠ” UADP (Unified Access Dataplane)ë¥¼ ì†Œí”„íŠ¸ì›¨ì–´ ìœ ì—°ì„±ì„ ê°–ì¶˜ í•˜ë“œì›¨ì–´ ì„±ëŠ¥ì„ ì œê³µí•˜ë©° ë§Žì€ í˜ì‹ ì ì¸ ê¸°ëŠ¥ì„ ì œê³µí•˜ê³ , ASICë¼ ë¶€ë¥¼ ìˆ˜ë„ ìžˆìœ¼ë©°, ìœ ì—°í•œ í¬ì›Œë”© ì—”ì§„ê³¼ ìœ ì„  ë° ë¬´ì„  íŠ¸ëž˜í”½ì˜ ì™„ë²½í•œ í†µí•© ê¸°ëŠ¥ì´ë¼ ì •ì˜ë˜ì–´ìžˆë‹¤.]
+[Cisco ë¬¸ì„œ: https://goo.gl/R3XUp4]
 
-# #8. [300]´Þ¸®´Â-±¸¼º: clock_rate_64000
-¹®Á¦:
-´ÙÀ½Àº ¶ó¿ìÅÍ R1, R2ÀÇ running-configÀÇ ÀÏºÎÀÌ´Ù.
+# #8. [300]ë‹¬ë¦¬ëŠ”-êµ¬ì„±: clock_rate_64000
+ë¬¸ì œ:
+ë‹¤ìŒì€ ë¼ìš°í„° R1, R2ì˜ running-configì˜ ì¼ë¶€ì´ë‹¤.
 
 R1
 hostname R1
@@ -54,34 +54,34 @@ clock rate 2000000
 shutdown
 
 
-R1¿¡¼­ 10.10.10.2·Î pingÅ×½ºÆ®¸¦ ½ÃÇàÇÑ °á°ú´Â ´ÙÀ½°ú °°´Ù.
+R1ì—ì„œ 10.10.10.2ë¡œ pingí…ŒìŠ¤íŠ¸ë¥¼ ì‹œí–‰í•œ ê²°ê³¼ëŠ” ë‹¤ìŒê³¼ ê°™ë‹¤.
 Sending 5, 100-byte ICMP Echos to 10.10.10.2, timeout is 2 seconds:
 !!!!!
 Success rate is 100 percent (5/5), round-trip min/avg/max = 1/7/21 ms
 
-R1ÀÇ Serial0/0/0°ú R2ÀÇ Serial0/0/0ÀÌ ¼­·Î Á÷Á¢ ¿¬°áµÇ¾î ÀÖÁö ¾ÊÀº ÀÌÀ¯¸¦ ¾Ë ¼ö ÀÖ´Â ºÎºÐÀÇ Çà ÀüÃ¼¸¦ R1ÀÇ running-config ¶Ç´Â pingÅ×½ºÆ® °á°ú¿¡¼­ Ã£À¸½Ã¿À.
+R1ì˜ Serial0/0/0ê³¼ R2ì˜ Serial0/0/0ì´ ì„œë¡œ ì§ì ‘ ì—°ê²°ë˜ì–´ ìžˆì§€ ì•Šì€ ì´ìœ ë¥¼ ì•Œ ìˆ˜ ìžˆëŠ” ë¶€ë¶„ì˜ í–‰ ì „ì²´ë¥¼ R1ì˜ running-config ë˜ëŠ” pingí…ŒìŠ¤íŠ¸ ê²°ê³¼ì—ì„œ ì°¾ìœ¼ì‹œì˜¤.
 
-Ç®ÀÌ:
-ÀÌ°Ç ´äÀÌ ¾ø´Â °Í °°Àºµ¥ ´äÀÌ ÀÖ´Ù... ±×·¡µµ ´äÀÌ Á¦½ÃÇÑ ¼¼ÆÃÀÌ³ª ÇÎ Å×½ºÆ® °á°ú¿¡ ÀÖ´Ù´Ï À§¿¡¼­ºÎÅÍ ÇÑÁÙ ÇÑÁÙ º¹»çÇØ¼­ ´ä¾È Á¦ÃâÀ» ½ÃµµÇÑ °á°ú clock rate 64000°¡ Á¤´äÀÌ¶ó´Â °á°ú¸¦ µµÃâÇØ³Â´Ù.
-Flag´Â clock_rate_64000ÀÌ´Ù.
+í’€ì´:
+ì´ê±´ ë‹µì´ ì—†ëŠ” ê²ƒ ê°™ì€ë° ë‹µì´ ìžˆë‹¤... ê·¸ëž˜ë„ ë‹µì´ ì œì‹œí•œ ì„¸íŒ…ì´ë‚˜ í•‘ í…ŒìŠ¤íŠ¸ ê²°ê³¼ì— ìžˆë‹¤ë‹ˆ ìœ„ì—ì„œë¶€í„° í•œì¤„ í•œì¤„ ë³µì‚¬í•´ì„œ ë‹µì•ˆ ì œì¶œì„ ì‹œë„í•œ ê²°ê³¼ clock rate 64000ê°€ ì •ë‹µì´ë¼ëŠ” ê²°ê³¼ë¥¼ ë„ì¶œí•´ëƒˆë‹¤.
+FlagëŠ” clock_rate_64000ì´ë‹¤.
 
-9. [200]À§Àåº¯Àå°£Àå: spf
-¹®Á¦:
-¸ÞÀÏ ¹ß¼ÛÀÚ Á¤º¸¸¦ ¹Ì¸® DNS¿¡ µî·ÏÇØ³õ°í, ¹ÞÀº ¸ÞÀÏ¿¡ °³ÇÏ DNSÁúÀÇ¸¦ ÇÏ´Â °ÍÀ¸·Î ¹ß¼ÛÀÚ¸¦ À§Á¶ÇÏ¿© ¸ÞÀÏÀ» º¸³»´Â °ø°ÝÀ» ¿¹¹æÇÏ´Â ÀÎÁõ±â¼ú ÀÌ¸§Àº?
+9. [200]ìœ„ìž¥ë³€ìž¥ê°„ìž¥: spf
+ë¬¸ì œ:
+ë©”ì¼ ë°œì†¡ìž ì •ë³´ë¥¼ ë¯¸ë¦¬ DNSì— ë“±ë¡í•´ë†“ê³ , ë°›ì€ ë©”ì¼ì— ê°œí•˜ DNSì§ˆì˜ë¥¼ í•˜ëŠ” ê²ƒìœ¼ë¡œ ë°œì†¡ìžë¥¼ ìœ„ì¡°í•˜ì—¬ ë©”ì¼ì„ ë³´ë‚´ëŠ” ê³µê²©ì„ ì˜ˆë°©í•˜ëŠ” ì¸ì¦ê¸°ìˆ  ì´ë¦„ì€?
 
-Ç®ÀÌ:
-https://www.kisarbl.or.kr/whiteip/whiteip_tutorial2.jsp ¸¦ Âü°íÇÏ¸é ¸ÞÀÏ¼­¹öµî·ÏÁ¦(SPF: Sender Policy Framework)´Â ¸ÞÀÏ¼­¹ö Á¤º¸¸¦ »çÀü¿¡ DNS¿¡ °ø°³ µî·ÏÇÔÀ¸·Î½á ¼ö½ÅÀÚ·Î ÇÏ¿©±Ý ÀÌ¸ÞÀÏ¿¡ Ç¥½ÃµÈ ¹ß¼ÛÀÚ Á¤º¸°¡ ½ÇÁ¦ ¸ÞÀÏ¼­¹öÀÇ Á¤º¸¿Í ÀÏÄ¡ÇÏ´ÂÁö¸¦ È®ÀÎÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ÀÎÁõ±â¼úÀÌ¶ó ³ª¿ÍÀÖ´Ù.
-Flag´Â spf´Ù
+í’€ì´:
+https://www.kisarbl.or.kr/whiteip/whiteip_tutorial2.jsp ë¥¼ ì°¸ê³ í•˜ë©´ ë©”ì¼ì„œë²„ë“±ë¡ì œ(SPF: Sender Policy Framework)ëŠ” ë©”ì¼ì„œë²„ ì •ë³´ë¥¼ ì‚¬ì „ì— DNSì— ê³µê°œ ë“±ë¡í•¨ìœ¼ë¡œì¨ ìˆ˜ì‹ ìžë¡œ í•˜ì—¬ê¸ˆ ì´ë©”ì¼ì— í‘œì‹œëœ ë°œì†¡ìž ì •ë³´ê°€ ì‹¤ì œ ë©”ì¼ì„œë²„ì˜ ì •ë³´ì™€ ì¼ì¹˜í•˜ëŠ”ì§€ë¥¼ í™•ì¸í•  ìˆ˜ ìžˆë„ë¡ í•˜ëŠ” ì¸ì¦ê¸°ìˆ ì´ë¼ ë‚˜ì™€ìžˆë‹¤.
+FlagëŠ” spfë‹¤
 
-10. [100]ÀáÀÔÀÛÀü: apt-get_install_tightvncserver
-¹®Á¦:
-Ä£±¸°¡ ÇÐ¿ø¿¡ °¡ÀÖ´Â Æ´À» Å¸ Ä£±¸³× Áý¿¡ ¿ø°ÝÁ¢¼Ó ¼³Á¤À» ÇØµÖ¼­ Ä£±¸¸¦ °ñ·Á ÁÖ·Á´Â °èÈ¹À» °¡Áö°í Ä£±¸³× Áý¿¡ ÀáÀÔÇÑ ¼ºÀ±ÀÌ´Â Ä£±¸³× Áý ÄÄÇ»ÅÍÀÇ OS°¡ UbuntuÀÎ °ÍÀ» º¸°í ´çÈ²ÇÏ°í ¸»¾Ò´Ù.
-ºü¸£°Ô ¿ø°ÝÁ¢¼Ó ¼³Á¤À» ÇÏÁö ¾ÊÀ¸¸é Ä£±¸°¡ µ¹¾Æ¿À°í ¸¸´Ù!
-TightVNC¸¦ ÀÌ¿ëÇÏ¿© ¿ø°ÝÁ¢¼ÓÀ» ÇÏ·Á´Â ¼ºÀ±ÀÌ´Â ±ÞÇÑ ³ª¸ÓÁö ±×¸¸ ¼³Ä¡ ¸í·É¾î¸¦ ±â¾ïÇØ³»Áö ¸øÇÏ°í ÀÖ´Ù.
+10. [100]ìž ìž…ìž‘ì „: apt-get_install_tightvncserver
+ë¬¸ì œ:
+ì¹œêµ¬ê°€ í•™ì›ì— ê°€ìžˆëŠ” í‹ˆì„ íƒ€ ì¹œêµ¬ë„¤ ì§‘ì— ì›ê²©ì ‘ì† ì„¤ì •ì„ í•´ë‘¬ì„œ ì¹œêµ¬ë¥¼ ê³¨ë ¤ ì£¼ë ¤ëŠ” ê³„íšì„ ê°€ì§€ê³  ì¹œêµ¬ë„¤ ì§‘ì— ìž ìž…í•œ ì„±ìœ¤ì´ëŠ” ì¹œêµ¬ë„¤ ì§‘ ì»´í“¨í„°ì˜ OSê°€ Ubuntuì¸ ê²ƒì„ ë³´ê³  ë‹¹í™©í•˜ê³  ë§ì•˜ë‹¤.
+ë¹ ë¥´ê²Œ ì›ê²©ì ‘ì† ì„¤ì •ì„ í•˜ì§€ ì•Šìœ¼ë©´ ì¹œêµ¬ê°€ ëŒì•„ì˜¤ê³  ë§Œë‹¤!
+TightVNCë¥¼ ì´ìš©í•˜ì—¬ ì›ê²©ì ‘ì†ì„ í•˜ë ¤ëŠ” ì„±ìœ¤ì´ëŠ” ê¸‰í•œ ë‚˜ë¨¸ì§€ ê·¸ë§Œ ì„¤ì¹˜ ëª…ë ¹ì–´ë¥¼ ê¸°ì–µí•´ë‚´ì§€ ëª»í•˜ê³  ìžˆë‹¤.
 
-TightVNC ¼³Ä¡ ¸í·É¾î¸¦ ¾Ë·ÁÁà¼­ ¼ºÀ±ÀÌ¸¦ µµ¿Í¶ó
+TightVNC ì„¤ì¹˜ ëª…ë ¹ì–´ë¥¼ ì•Œë ¤ì¤˜ì„œ ì„±ìœ¤ì´ë¥¼ ë„ì™€ë¼
 
-Ç®ÀÌ:
-Ã³À½¿£ yum_install_-y_tigervnc-server·Î ½ÃµµÇßÀ¸³ª Á¤´äÀÌ ¾Æ´Ï¶ó ÇØ¼­ yum_install_tigervnc-server·Î Çß´õ´Ï ¶Ç ¿À´äÀÌ¶ó ÇØ¼­ ¿î¿µÁøÃø¿¡ ¹°¾îºÃ´õ´Ï ÇØ´ç ¹®Á¦¿¡ ¿À·ù°¡ ÀÖÀ½À» È®ÀÎÇÏ¿© ÃâÁ¦ÀÚ¿Í Á¶À²ÇÏ¿© ´äÀ» ¼öÁ¤Çß´Ù°í ÇÏ¿´´Ù.
-±×¸®°í apt-get_install_tightvncserver·Î ½ÃµµÇß´õ´Ï ¸ÂÃè´Ù.
-Flag´Â apt-get_install_tightvncserverÀÌ´Ù.
+í’€ì´:
+ì²˜ìŒì—” yum_install_-y_tigervnc-serverë¡œ ì‹œë„í–ˆìœ¼ë‚˜ ì •ë‹µì´ ì•„ë‹ˆë¼ í•´ì„œ yum_install_tigervnc-serverë¡œ í–ˆë”ë‹ˆ ë˜ ì˜¤ë‹µì´ë¼ í•´ì„œ ìš´ì˜ì§„ì¸¡ì— ë¬¼ì–´ë´¤ë”ë‹ˆ í•´ë‹¹ ë¬¸ì œì— ì˜¤ë¥˜ê°€ ìžˆìŒì„ í™•ì¸í•˜ì—¬ ì¶œì œìžì™€ ì¡°ìœ¨í•˜ì—¬ ë‹µì„ ìˆ˜ì •í–ˆë‹¤ê³  í•˜ì˜€ë‹¤.
+ê·¸ë¦¬ê³  apt-get_install_tightvncserverë¡œ ì‹œë„í–ˆë”ë‹ˆ ë§žì·„ë‹¤.
+FlagëŠ” apt-get_install_tightvncserverì´ë‹¤.
